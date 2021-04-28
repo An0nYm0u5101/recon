@@ -41,7 +41,7 @@
     "@pown/github": "^2.7.0",
     "@pown/modules": "^2.6.0",
     "@pown/preferences": "^2.3.0",
-    "@pown/request": "^2.13.1",
+    "@pown/request": "^2.26.1",
     "@pown/whoarethey": "^2.7.0",
     "cytoscape": "^3.17.0",
     "cytoscape-dagre": "^2.3.2",
